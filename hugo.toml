@@ -48,11 +48,16 @@ rssFullContent = true
 
   [params.comments]
   enabled = true
-  provider = "giscus"
+  provider = "utterances"
 
-    [params.comments.giscus]
-    reactionsEnabled = 1
-    emitMetadata = 0
+    [params.comments.utterances]
+    issueTerm = "pathname"
+
+    [params.comments.remark42]
+
+    [params.comments.vssue]
+    autoCreateIssue = false
+    [params.comments.twikoo]
 
 [[params.widgets.homepage]]
 type = "search"
