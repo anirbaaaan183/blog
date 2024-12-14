@@ -51,8 +51,19 @@ rssFullContent = true
   provider = "giscus"
 
     [params.comments.giscus]
+    repo = "anirbaaaan183/blog"
+    repoID = "R_kgDONdMlFw"
+    category = "comments"
+    categoryID = "DIC_kwDONdMlF84ClOW6"
+    mapping = "pathname"
+    strict = 1
+    lightTheme = "light"
+    darkTheme = "dark_dimmed"
     reactionsEnabled = 1
     emitMetadata = 0
+    inputPosition = "top"
+    lang = "en"
+
 
 [[params.widgets.homepage]]
 type = "search"
