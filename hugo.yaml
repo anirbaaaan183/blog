@@ -112,7 +112,7 @@ params:
             mapping: pathname
             strict: 1
             lightTheme: noborder_light
-            darkTheme: transparent_dark
+            darkTheme: noborder_gray
             reactionsEnabled: 1
             emitMetadata: 0
             inputPosition: top
