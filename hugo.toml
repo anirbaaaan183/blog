@@ -1,8 +1,7 @@
-baseurl = "https://example.com/"
+baseurl = "https://anirbaaaan183.github.io/blog/"
 theme = "hugo-theme-stack"
-title = "Example Site"
-copyright = "Example Person"
-DefaultContentLanguage = "en"
+title = "anirbaaaan183's blog"
+copyright = "anirbaaaan183"
 hasCJKLanguage = false
 
 [services.disqus]
@@ -23,7 +22,7 @@ featuredImageField = "image"
 rssFullContent = true
 
   [params.footer]
-  since = 2_020
+  since = 2_024
 
   [params.dateFormat]
   published = "Jan 02, 2006"
@@ -31,7 +30,7 @@ rssFullContent = true
 
   [params.sidebar]
   emoji = "🍥"
-  subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  subtitle = "Hi! I am anirbaaaan. This is my blog for posting my thoughts, acheivements and shitposts. More details in About!"
 
     [params.sidebar.avatar]
     enabled = true
@@ -45,46 +44,13 @@ rssFullContent = true
 
     [params.article.license]
     enabled = true
-    default = "Licensed under CC BY-NC-SA 4.0"
+    default = "Licensed under the MIT License"
 
   [params.comments]
   enabled = true
-  provider = "disqus"
-
-    [params.comments.disqusjs]
-
-    [params.comments.utterances]
-    issueTerm = "pathname"
-
-    [params.comments.beaudar]
-    issueTerm = "pathname"
-
-    [params.comments.remark42]
-
-    [params.comments.vssue]
-    autoCreateIssue = false
-
-    [params.comments.waline]
-    emoji = [ "https://unpkg.com/@waline/emojis@1.0.1/weibo" ]
-    requiredMeta = [ "name", "email", "url" ]
-
-      [params.comments.waline.locale]
-      admin = "Admin"
-
-    [params.comments.twikoo]
-
-    [params.comments.cactus]
-    defaultHomeserverUrl = "https://matrix.cactus.chat:8448"
-    serverName = "cactus.chat"
-    siteName = ""
-
-    [params.comments.giscus]
-    reactionsEnabled = 1
-    emitMetadata = 0
+  provider = "gitalk"
 
     [params.comments.gitalk]
-
-    [params.comments.cusdis]
 
 [[params.widgets.homepage]]
 type = "search"
@@ -133,18 +99,10 @@ main = [ ]
   [[menu.social]]
   identifier = "github"
   name = "GitHub"
-  url = "https://github.com/CaiJimmy/hugo-theme-stack"
+  url = "https://github.com/anirbaaaan183/"
 
     [menu.social.params]
     icon = "brand-github"
-
-  [[menu.social]]
-  identifier = "twitter"
-  name = "Twitter"
-  url = "https://twitter.com"
-
-    [menu.social.params]
-    icon = "brand-twitter"
 
 [related]
 includeNewer = true
@@ -181,5 +139,4 @@ guessSyntax = true
 lineNoStart = 1
 lineNos = true
 lineNumbersInTable = true
-tabWidth = 4
-
+tabWidth = 6
