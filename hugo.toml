@@ -48,9 +48,11 @@ rssFullContent = true
 
   [params.comments]
   enabled = true
-  provider = "gitalk"
+  provider = "giscus"
 
-    [params.comments.gitalk]
+    [params.comments.giscus]
+    reactionsEnabled = 1
+    emitMetadata = 0
 
 [[params.widgets.homepage]]
 type = "search"
