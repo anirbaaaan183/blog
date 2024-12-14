@@ -28,7 +28,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Hi! I am anirbaaaan. This is my blog for posting my thoughts, acheivements and shitposts. More details in About!
+        subtitle: Hi! I am anirbaaaan. This is my blog consisting of my thoughts, acheivements and shitposts.
         avatar:
             enabled: true
             local: true
