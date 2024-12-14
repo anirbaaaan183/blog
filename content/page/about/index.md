@@ -9,7 +9,7 @@ aliases:
 license: MIT
 lastmod: '2024-12-14'
 menu:
-    main: 
+    main:
         weight: -90
         params:
             icon: user
