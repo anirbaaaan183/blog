@@ -3,13 +3,8 @@ author = "anirbaaaan183"
 title = "Arcane - Absolute Cinema"
 date = "2024-12-15"
 description = "My thoughts on Netfilx and Riot Games' animated series Arcane."
-tags = [
-    "series",
-    "review",
-]
-categories = [
-    "reviews",
-]
+tags = [ "series", "review" ]
+categories = [ "reviews" ]
 image = "cover.jpg"
 +++
 
