@@ -112,7 +112,7 @@ params:
             mapping: pathname
             strict: 1
             lightTheme: noborder_light
-            darkTheme: https://raw.githubusercontent.com/anirbaaaan183/blog/refs/heads/main/giscus.css
+            darkTheme: noborder_gray
             reactionsEnabled: 1
             emitMetadata: 0
             inputPosition: top
