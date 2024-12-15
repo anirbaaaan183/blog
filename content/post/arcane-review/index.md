@@ -17,7 +17,7 @@ I am going to give you a hot, yet very agreeable take. Arcane is probably, THE
 BEST piece of media ever conjured by humans, period. It can only be aptly
 described with one phrase - "Absolute Cinema". The animation, the story, the
 unpredictability and the absolutely fantastic music! This show is going to
-dictate my personality for a while now stuck in my head till date. This also
+dictate my personality for a while now and is stuck in my head till date. This also
 gives me an amazing topic to write on for my first blog! Note that I will be
 fanboy-ing all through this article. I never thought I would ever call a TV show
 life-changing, but here we are.
