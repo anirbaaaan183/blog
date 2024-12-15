@@ -1,6 +1,6 @@
 baseurl: https://anirbaaaan183.github.io/blog/
 theme: hugo-theme-stack
-title: Home
+title: :)
 copyright: anirbaaaan183
 
 pagination:
@@ -27,7 +27,7 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
+        emoji: 💻
         subtitle: Hi! I am anirbaaaan. This is my blog consisting of my thoughts, acheivements and shitposts.
         avatar:
             enabled: true
@@ -40,7 +40,7 @@ params:
         readingTime: true
         license:
             enabled: true
-            default: Licensed under MIT
+            default: Licensed under MIT excluding 3rd party media or files
 
     comments:
         enabled: true
@@ -112,7 +112,7 @@ params:
             mapping: pathname
             strict: 1
             lightTheme: noborder_light
-            darkTheme: noborder_gray
+            darkTheme: https://raw.githubusercontent.com/anirbaaaan183/blog/refs/heads/main/giscus.css
             reactionsEnabled: 1
             emitMetadata: 0
             inputPosition: top
