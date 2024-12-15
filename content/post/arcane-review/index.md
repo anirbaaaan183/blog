@@ -106,6 +106,8 @@ that beotch.
 The background every character comes from becomes clear with every move they make.
 Every piece of dialog, all the facial expression and micro-expressions. Its hard to believe that all the micro-expressions were hand animated as there was no mocap used, like damnnn. I wanted to talk about a couple characters in details -
 
+`Major Spoilers Ahead`
+
 ### Jinx/Powder
 I feel for her deeply. Poor girl was continuously subjected to trauma from a very 
 young age. Lost everyone she cared for in the blink of an eye. Worst part is that
@@ -120,8 +122,6 @@ trying to kill herself and her sacrifice at the end were hard to watch. HOWEVER,
 believe that she is alive. The pink trail, the air duct blueprints, the blimp(?) at 
 the end; and I will die on that hill. I refuse to believe that her story ended while
 still believing that she is a jinx.
-
-`Major Spoilers Ahead`
 
 ### Vi
 Oh god. She also lost everyone, then had to see her only hope in the world - her 
